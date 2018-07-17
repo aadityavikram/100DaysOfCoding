@@ -14,7 +14,7 @@ Learned <b>Linear Algebra</b> from <b>Gilbert Strang</b>'s lectures.
 
 1. Resumed <b>Machine Learning</b> course by <b>Andrew Ng</b> on <b>Coursera</b>.
 2. Had completed upto week 4 before.
-3. Resumed from week 6.
+3. Resumed from week 5.
 
 ## Day 13: July 2, 2018
 
