@@ -174,20 +174,8 @@ Learned <b>Linear Algebra</b> from <b>Gilbert Strang</b>'s lectures.
    i)  <b>cv2.Laplacian()</b> --> applies laplacian blur.
    ii) <b>cv2.Sobel(frame, datatype, x, y, ksize)</b> --> applies horizontal or vertical gradient if (x=1 and y=0) or (x=0 and y=1).
 3. For edge detection, function that can be used --> <b>cv2.Canny()</b> --> converts the image into network of edges.
-
-## Day 29: July 16, 2018
-
-### What I did ?
-
-1. Learned <b>template matching</b> in OpenCV.
-2. Function used --> <b>cv2.matchTemplate()</b>
-3. Learned <b>corner detection</b> in OpenCV.
-4. Function used --> <b>cv2.goodFeaturesToTrack()</b> --> detects corners in an image.
-5. Corner detection works best when image is <b>grayscaled</b>.
-
-## Day 30: July 17, 2018
-
-### What I did ?
-
-1. Learned <b>screen recording</b> in Python.
-2. Function used --> <b>ImageGrab.grab()</b> function of <b>PIL</b> library
+4. Learned <b>template matching</b> in OpenCV.
+5. Function used --> <b>cv2.matchTemplate()</b>
+6. Learned <b>corner detection</b> in OpenCV.
+7. Function used --> <b>cv2.goodFeaturesToTrack()</b> --> detects corners in an image.
+8. Corner detection works best when image is <b>grayscaled</b>.
