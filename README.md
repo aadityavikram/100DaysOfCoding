@@ -189,5 +189,5 @@ Learned <b>Linear Algebra</b> from <b>Gilbert Strang</b>'s lectures.
 
 ### What I did ?
 
-1. Learned <b>screen recording</b> in OpenCV.
+1. Learned <b>screen recording</b> in Python.
 2. Function used --> <b>ImageGrab.grab()</b> function of <b>PIL</b> library
