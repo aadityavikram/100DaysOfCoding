@@ -57,4 +57,4 @@ Learned <b>Linear Algebra</b> from <b>Gilbert Strang</b>'s lectures.
 1. Trained the <b>MNIST model</b> for <b>Digit Classification</b> again but this time I used <b>Recurrent Neural Network</b>.
 2. By Using <b>Tensorflow</b>.
 3. Created a <b>BasicLSTMCell</b>.
-4. Achieved accuracy near to about <b>97.5%</b> after using <b>'Sigmoid'</b> as an activation function and <b>AdamOptimizer</b>.
+4. Achieved accuracy near to about <b>98.5%</b> after using <b>'Sigmoid'</b> as an activation function and <b>AdamOptimizer</b>.
