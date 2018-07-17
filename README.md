@@ -85,3 +85,21 @@ Learned <b>Linear Algebra</b> from <b>Gilbert Strang</b>'s lectures.
 2. So I started looking up as to what else can be done in this field.
 3. So I found <b>OpenCV</b> played a major role here along with <b>Python Imaging Library</b> or PIL.
 4. So started learning <b>OpenCV</b>.
+
+## Day 21: July 10, 2018
+
+### What I did ?
+
+1. Learned to open or load images from local folders or access webcam using <b>cv2</b> library.
+2. Learned to display the images using <b>imshow()</b> from <b>cv2</b> library.
+3. Learned to display images or plot them using <b>matplotlib</b> library.
+4. Learned to draw on the images plotted with <b>matplotlib</b>.
+
+## Day 22: July 11, 2018
+
+### What I did ?
+
+1. Learned to open or load videos from local folders or access webcam using <b>cv2</b> library.
+2. Learned to read the frames using <b>read()</b> function.
+3. Learned to convert color of frames or images using <b>cvtColor()</b> from <b>cv2</b> library.
+4. Learned about the codecs and formats associated with them to save the videos read from webcam or local folder using <b>VideoWriter</b> from <b>cv2</b> library.
