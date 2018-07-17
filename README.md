@@ -1,6 +1,6 @@
 # 100DaysOfMLCode
 
-This repository is a part of #100DaysofMLCode challenge. That means, I pledge to code machine learning for at least an hour everyday for the next 100 days. Starting from June 20, 2018.
+This repository is a part of #100DaysofMLCode challenge. That means, I pledge to code machine learning for at least an hour everyday for the next 100 days, starting from June 20, 2018.
 
 ## Day 1-11: June 20-30, 2018
 
@@ -59,3 +59,29 @@ Learned <b>Linear Algebra</b> from <b>Gilbert Strang</b>'s lectures.
 3. Created a <b>BasicLSTMCell</b>.
 4. Achieved accuracy near to about <b>98.5%</b> after using <b>AdamOptimizer</b>.
 5. Did not understand fully, will study further about RNN in future.
+
+## Day 18: July 7, 2018
+
+### What I did ?
+
+1. Came to know about <b>Kaggle</b>.
+2. Browsed through the website and found various competitions that were going on or were finished in the past.
+
+## Day 19: July 8, 2018
+
+### What I did ?
+
+1. Picked the competition held in 2017 <b>Dogs vs Cats Redux</b> and decided to implement it using <b>CNN</b>.
+2. By using <b>tflearn</b>
+3. Created a neural network model with <b>6 convolutional layers</b> and <b>2 fully connected layers</b>.
+4. Achieved accuracy near to about <b>82%</b> after using <b>'Relu'</b> and <b>'Softmax'</b> as activation functions and <b>AdamOptimizer</b>.
+5. Plotted the images using <b>matplotlib</b> to see the results.
+
+## Day 20: July 9, 2018
+
+### What I did ?
+
+1. Completing the previous project involving classification of cats and dogs, I got interested in <b>Image and Video Operations</b>.
+2. So I started looking up as to what else can be done in this field.
+3. So I found <b>OpenCV</b> played a major role here along with <b>Python Imaging Library</b> or PIL.
+4. So started learning <b>OpenCV</b>.
