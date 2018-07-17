@@ -45,16 +45,17 @@ Learned <b>Linear Algebra</b> from <b>Gilbert Strang</b>'s lectures.
 
 ### What I did ?
 
-1. Trained the <b>MNIST model</b> for <b>Digit Classification</b> again but this time I used <b>Convolutional Neural Network</b>.
+1. Trained the <b>MNIST model</b> for <b>Digit Classification</b> again using <b>Convolutional Neural Network</b> or CNN.
 2. By Using <b>tflearn</b>.
 3. Created a neural network model with <b>2 convolutional layers</b>, and <b>2 fully connected layers</b>.
-4. Achieved accuracy near to about <b>97.5%</b> after using <b>'Sigmoid'</b> as an activation function.
+4. Achieved accuracy near to about <b>97.5%</b> after using <b>'Relu'</b> and <b>'Softmax'</b> as activation functions and <b>AdamOptimizer</b>.
 
 ## Day 17: July 6, 2018
 
 ### What I did ?
 
-1. Trained the <b>MNIST model</b> for <b>Digit Classification</b> again but this time I used <b>Recurrent Neural Network</b>.
+1. Trained the <b>MNIST model</b> for <b>Digit Classification</b> again but this time I used <b>Recurrent Neural Network</b> or RNN.
 2. By Using <b>Tensorflow</b>.
 3. Created a <b>BasicLSTMCell</b>.
-4. Achieved accuracy near to about <b>98.5%</b> after using <b>'Sigmoid'</b> as an activation function and <b>AdamOptimizer</b>.
+4. Achieved accuracy near to about <b>98.5%</b> after using <b>AdamOptimizer</b>.
+5. Did not understand fully, will study further about RNN in future.
