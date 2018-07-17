@@ -182,7 +182,7 @@ Learned <b>Linear Algebra</b> from <b>Gilbert Strang</b>'s lectures.
 1. Learned <b>template matching</b> in OpenCV.
 2. Function used --> <b>cv2.matchTemplate()</b>
 3. Learned <b>corner detection</b> in OpenCV.
-4. Function used --> <b>cv2.goodFeaturesToTrack</b> --> detects corners in an image.
+4. Function used --> <b>cv2.goodFeaturesToTrack()</b> --> detects corners in an image.
 5. Corner detection works best when image is <b>grayscaled</b>.
 
 ## Day 30: July 17, 2018
